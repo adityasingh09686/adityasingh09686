@@ -1,4 +1,13 @@
+<p align="center">
 # Hi there, I'm Aditya Singh 👋
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkwaG9mZmVzd2RlMDhxaDA4bWl3emc1NjN1Y3VyczBkYWpscmQ5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/68kKd6gmSKYww/200.webp"
+    width="180"
+    alt="Pikachu dancing"
+  />
+</p>
 
 ### B.Tech CSE Student | Full-Stack Developer | AI/ML Enthusiast
 
