@@ -145,15 +145,7 @@ A web development project inspired by GitHub's interface and user experience.
 
 ## 👾 My Contributions vs Space Invaders
 
-I like making my GitHub profile a little more fun. This animation uses a space-invader-style visualization of GitHub contribution activity, with a rocket as the player.
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/adityasingh09686/adityasingh09686/output/git-invader-multi-dark.svg"
-    width="100%"
-    alt="Rocket and Space Invaders GitHub contribution animation"
-  />
-</p>
 
 ---
 
